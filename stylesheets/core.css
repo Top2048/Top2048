@@ -1,3 +1,24 @@
 @import url("screen.css");
 @import url("non-screen.css") handheld;
 @import url("non-screen.css") only screen and (max-device-width:640px);
+
+#mainHead{
+  font-size: 80px;
+  color: #aaa;
+  text-align: center;
+  width: 100%;
+}
+
+#subHead1{
+  font-size: 45px;
+  color: #888;
+  text-align: center;
+  width: 100%;
+}
+
+#subHead2{
+  font-size 40px;
+  color: #777;
+  text-align: center;
+  width: 100%;
+}
